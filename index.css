@@ -1,0 +1,23 @@
+@font-face {
+	font-family: NexaBold;
+	src: url(./src/font/NexaBold.otf);
+}
+
+@font-face {
+	font-family: NexaLight;
+	src: url(./src/font/NexaLight.otf);
+}
+
+.header {
+	font-family: NexaLight;
+	text-align: center;
+}
+
+.articleP {
+	margin-left: 50px;
+	margin-top: 100px;
+}
+
+.articleImg {
+	float: left;
+}
