@@ -1,23 +1,38 @@
 @font-face {
 	font-family: NexaBold;
-	src: url(./src/font/NexaBold.otf);
+	src: url(./src/fonts/NexaBold.otf);
 }
 
 @font-face {
 	font-family: NexaLight;
-	src: url(./src/font/NexaLight.otf);
+	src: url(./src/fonts/NexaLight.otf);
 }
 
 .header {
-	font-family: NexaLight;
+	font-family: NexaBold;
+	margin-top: 70px;
 	text-align: center;
 }
 
+.articleFrontPageText {
+	margin-top: 150px; 
+	margin-right: 250px;
+	font-family: NexaLight;
+}
+
 .articleP {
-	margin-left: 50px;
+	margin-left: 125px;
 	margin-top: 100px;
+	font-family: NexaLight;
 }
 
 .articleImg {
 	float: left;
+	width: 20%;
+	height: 15%;
+}
+
+.smallHeader {
+	font-family: NexaLight;
+	text-align: center;
 }
