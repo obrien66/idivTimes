@@ -8,6 +8,12 @@
 	src: url(./src/fonts/NexaLight.otf);
 }
 
+.navbar {
+	position: fixed;
+	top: 0px;
+	width: 100%;
+}
+
 .header {
 	font-family: NexaBold;
 	margin-top: 70px;
@@ -51,3 +57,45 @@
 .profileParentContainer {
 	text-align: center;
 }
+
+.emailLink {
+	color: #0057ED;
+	font-size: 50px;
+	font-family: NexaLight;
+}
+
+.bottomBanner {
+	margin-bottom: 0px;
+	margin-top: 100px;
+	height: 100%;
+	width: 100%;
+	background-color: #eaebed;
+}
+
+.bannerHeader {
+	font-family: NexaLight;
+	text-align: center;
+}
+
+.bannerP {
+	font-family: NexaLight;
+	text-align: center;
+	padding-top: 25px;
+}
+
+.bannerImg {
+	width: 50px;
+	height: 50px;
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+}
+
+
+
+
+
+
+
+
+
