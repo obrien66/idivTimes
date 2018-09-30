@@ -36,3 +36,18 @@
 	font-family: NexaLight;
 	text-align: center;
 }
+
+.profilePicture {
+	border-radius: 50%;
+}
+
+.profileChildContainer {
+	display: inline-block;
+	font-family: NexaLight;
+	margin-top: 50px;
+	margin-left: 50px;
+}
+
+.profileParentContainer {
+	text-align: center;
+}
