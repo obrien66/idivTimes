@@ -1,11 +1,11 @@
 @font-face {
 	font-family: NexaBold;
-	src: url(./src/fonts/NexaBold.otf);
+	src: url(./content/fonts/NexaBold.otf);
 }
 
 @font-face {
 	font-family: NexaLight;
-	src: url(./src/fonts/NexaLight.otf);
+	src: url(./content/fonts/NexaLight.otf);
 }
 
 
@@ -22,7 +22,7 @@
 }
 
 .articleFrontPageText {
-	margin-top: 150px; 
+	margin-top: 150px;
 	margin-right: 250px;
 	font-family: NexaLight;
 }
